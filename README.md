@@ -26,7 +26,8 @@ NOTE: It sometimes can't find out the solutions if the number of colored and num
 #Release note
 - 0.0.1 - Feb 25 2016: Add UI, Allow user to edit the map.
 
-
+#Contribution
+Please making any merge requests in case of error.
 
 #From Author
 Feel free to download and use any part of the source code

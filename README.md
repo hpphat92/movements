@@ -9,10 +9,10 @@ In the game, you will see several boxes with difference colors:
 - The ball is white circle, that is the subject of the game.
 You will use your arrow key to move up/down/left/right to move these balls into the blue boxes
 
-#requirement:
+#Requirement
 Nodejs
 
-#install
+#Install
 npm install
 
 #Usage

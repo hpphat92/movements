@@ -9,10 +9,10 @@ In the game, you will see several boxes with difference colors:
 - The ball is white circle, that is the subject of the game.
 You will use your arrow key to move up/down/left/right to move these balls into the blue boxes
 
-#requirement:
+#Requirement
 Nodejs
 
-#install
+#Install
 npm install
 
 #Usage
@@ -23,13 +23,16 @@ After design, you will press Start button and then, you can play with arrow keys
 You can ask for solution by pressing Optimize button.
 NOTE: It sometimes can't find out the solutions if the number of colored and number of ball is not equal OR the solutions is too hard to find out (there is threshold for it).
 
-#Release
+#Release note
 - 0.0.1 - Feb 25 2016: Add UI, Allow user to edit the map.
 
-
-#Licence
-MIT
+#Contribution
+Please making any merge requests in case of error.
 
 #From Author
 Feel free to download and use any part of the source code
 Any idea can be push directly via hpphat1992@gmail.com
+
+#Reference
+Please refer to this link as the demostration
+https://play.google.com/store/apps/details?id=com.nitako.move 

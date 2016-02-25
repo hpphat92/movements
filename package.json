@@ -1,6 +1,7 @@
 {
   "name": "Movements",
   "version": "0.0.1",
+  "author": "hpphat92",
   "dependencies": {
     "angular": "^1.5.0",
     "bootstrap": "^3.3.6",
